@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Gaurav Sharma </h1>
 
 <div align="right">
-  <img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg1cm15bGV4NHh1aHo3YWo1dTNwYWJiemhjcTlobHhkdnZzcWdqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zUO7Qh1Mysk2FXjMPG/giphy.gif" />
+  <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg1cm15bGV4NHh1aHo3YWo1dTNwYWJiemhjcTlobHhkdnZzcWdqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zUO7Qh1Mysk2FXjMPG/giphy.gif" />
 </div>
 
 <h3 align="left">A Passionate Developer | Aspiring Programmer | VJTI</h3>
