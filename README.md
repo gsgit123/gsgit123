@@ -7,7 +7,7 @@
 <h3 align="left">A Passionate Developer | Aspiring Programmer | VJTI</h3>
 
 <p align="left">
-  <a href="https://github.com/sumedhcharjan">
+  <a href="https://github.com/gsgit123">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Mern+Stack+Developer;React+and+Next+Enthusiast;Always+learning+new+technologies&center=true&width=380&height=45">
   </a>
 </p>
